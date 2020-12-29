@@ -13,3 +13,5 @@ stash demo
 change to push --- push to remote master
 
 change to pull --  changes by teammate
+
+change for rebase using remote master change done by teammate
