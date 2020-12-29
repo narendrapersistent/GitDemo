@@ -12,4 +12,4 @@ stash demo
 
 change to push --- push to remote master
 
-
+change to pull --  changes by teammate
